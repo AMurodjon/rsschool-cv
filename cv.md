@@ -10,13 +10,15 @@ Mirzo Ulug'bek, Tashkent, Uzbekistan
 ### _Email_
 
 avezovm2810@gmail.com
+
 murodjonavezov68@gmail.com
 
 ### _Social Media Info_
-Instagram: **@its.a_murodjon**
-Facebook: **Murodjon Avezov**
-LinkedIn: **Murodjon Avezov**
-Telegram: **@itsa_murodjon**
+
+* Instagram: **@its.a_murodjon**
+* Facebook: **Murodjon Avezov**
+* LinkedIn: **Murodjon Avezov**
+* Telegram: **@itsa_murodjon**
 
 ## Summary 
 
@@ -76,7 +78,10 @@ root.mainloop()
 ## Experience 
 
 A simple shopping card was made at Udacity course
-_here is the link_ https://classroom.udacity.com/nanodegrees/nd001-1mac-v2/dashboard/overview
+
+_here is the link_ 
+
+https://classroom.udacity.com/nanodegrees/nd001-1mac-v2/dashboard/overview
 
 Other projects are not deployed yet. When they are ready, the CV content will be automatically updated.
 
@@ -86,11 +91,17 @@ Other projects are not deployed yet. When they are ready, the CV content will be
  **Graduation: 2022**
  
  **Got Certificates provided below**
+ 
  **HTML, CSS, Javascript, Python**
- __Sololearn.com  Account: Murodjon Avezov__
+ 
+ __Sololearn.com__
+ 
+ Account: Murodjon Avezov
  
  ## English Proficiency
+ 
  I have been learning an engish for 10 years.
+ 
  **IELTS Certificate : 6.5 in August 2017**
  
 
