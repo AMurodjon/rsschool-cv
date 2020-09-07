@@ -86,8 +86,11 @@ https://classroom.udacity.com/nanodegrees/nd001-1mac-v2/dashboard/overview
 Other projects are not deployed yet. When they are ready, the CV content will be automatically updated.
 
 ## Education 
+
  **BA Managenment and Marketing**
+ 
  _Westminster International University in Tashkent_
+ 
  **Graduation: 2022**
  
  **Got Certificates provided below**
